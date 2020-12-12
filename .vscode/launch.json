@@ -21,9 +21,9 @@
             "type": "lldb",
             "request": "launch",
             "name": "Debug",
-            "program": "${workspaceFolder}/day11/target/debug/day11.exe",
+            "program": "${workspaceFolder}/day12/target/debug/day12.exe",
             "args": [],
-            "cwd": "${workspaceFolder}/day11/"
+            "cwd": "${workspaceFolder}/day12/"
         }
     ]
 }
